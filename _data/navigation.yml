@@ -2,74 +2,74 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: 英语学习
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: 工作学习
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "javascript"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "python"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "html/css"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "vue"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
+  - title: "uiDesign"
     url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
+  - title: "python"
     url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
+  - title: "docker"
     url: "/blog/"
-  - title: "Video"
+  - title: "nginx"
     url: "/design/video/"
-  - title: "Gallery"
+  - title: "webpack"
     url: "/design/gallery/"
-  - title: "Portfolio"
+  - title: "node"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "兴趣爱好"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "彩铅"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "书法"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "摄影"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
+  - title: "周公解梦"
     url: "/design/header-logo-only/"
-  - title: "Header With Text"
+  - title: "八字排盘"
     url: "/design/header-with-text/"
-  - title: "No Header"
+  - title: "手相"
     url: "/design/no-header/"
-  - title: "No Header but Image"
+  - title: "护肤"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+#- title: Documentation
+#  url: "/documentation/"
+#  side: left
+#  dropdown:
+#  - title: "Changelog"
+#    url: "/changelog/"
+#  - title: "Roadmap"
+#    url: "/roadmap/"
+#
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
+- title: "搜索"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "联系方式"
   url: "/contact/"
   side: right
